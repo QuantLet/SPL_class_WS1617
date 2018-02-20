@@ -1,0 +1,8 @@
+Name of Quantlet: SPL_HousePriceML_rfFeatureSelection
+Published in:  'Statistic Programming Language - Student Project on ''Predicting House Prices using Machine Learning Techniques'' '
+Description: 'Select variables to forcast the house price using random forest method, with the parameter taken from the tuning result.'
+Keywords: random-forest, variable selection, plot, forecast, bar chart, error
+Author: Dennis Koehn
+Submitted: Sun, January 8, 2016 by Mingyang Li
+Datafile: basic_processing.RData
+

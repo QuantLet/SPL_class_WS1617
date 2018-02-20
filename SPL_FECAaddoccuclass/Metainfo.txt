@@ -1,0 +1,14 @@
+Name of Quantlet: SPL_FECAaddoccuclass
+
+Published in:     'Statistic Programming Language - Student Project on ''Exploring FEC Data'' '
+
+Description:      'Classifies the occupation with keywords and classifications taken from
+                  https://github.com/datasciencedojo/DataMiningFEC/blob/master/6%20Bucketing%20Occupation%20Groups.R'
+
+Keywords:         data-preparation, feature-engineering, occupation, classification fec, election
+
+Author:           Jonas Klein
+
+Submitted:        Mon, March 13 2017
+
+Datafile:         dat3.csv, occupationclassed.txt

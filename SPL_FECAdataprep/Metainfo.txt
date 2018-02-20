@@ -1,0 +1,16 @@
+Name of Quantlet: SPL_FECAdataprep
+
+Published in:  'Statistic Programming Language - Student Project on ''Exploring FEC Data'' '
+
+Description:      'Prepares the FEC data set for California, i.e. the broken data set 
+                  P00000001-CA.csv is loaded and transformed into a proper data frame. 
+                  Moreover, column names and variable types are adjusted, invalid or NA 
+                  values deleted and some more data manipulation is done.' 
+
+Keywords:         'data-preparation, data-cleaning, data-manipulation, election, fec'
+
+Author:           Jonas Klein
+
+Submitted:        Mon, March 13 2017
+
+Datafile:         P00000001-CA.csv

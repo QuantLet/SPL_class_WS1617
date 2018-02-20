@@ -1,0 +1,15 @@
+Name of Quantlet: SPL_FECAvariableimportance
+
+Published in:  'Statistic Programming Language - Student Project on ''Exploring FEC Data'' '
+
+Description:      'Predictive model of donation behaviour. Tries to predict the party donated to 
+                  based on donor characteristics. Also attemps to visualize effect of predictor 
+                  variables.'
+
+Keywords:         variable-importance, partial-dependence, fec, election, randomforest
+
+Author:           Janek Willeke
+
+Submitted:        Mon, March 13 2017
+
+Datafile:         dat4.csv

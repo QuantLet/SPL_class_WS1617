@@ -1,0 +1,392 @@
+"","Name","Bundesland","Category","Population density","GDP per inhabitant","Workers in Agriculture","GDP growth rate","Natality","Net Migration","Unemployment","Population","Employees","GDP in Tsd. 2000"
+"1","Flensburg","Schleswig-Holstein","County-Level City",1560,35.3,0.18,2.16,9.1,-0.076,8.71,88502,56.8,2618827
+"2","Kiel, Landeshauptstadt","Schleswig-Holstein","County-Level City",2008,38.1,0.25,1.79,8.92,0.423,8.79,238281,159.2,7829214
+"3","Luebeck, Hansestadt","Schleswig-Holstein","County-Level City",979,29.5,0.41,1.05,8.42,-0.111,10.56,209818,121.1,5647687
+"4","Neumuenster","Schleswig-Holstein","County-Level City",1074,31.1,1.06,0.97,8.87,0.109,9.37,76897,47.1,2196875
+"5","Dithmarschen","Schleswig-Holstein","County",95,23.4,3.21,0.33,7.6,0.122,11.14,135279,56.1,3076849
+"6","Herzogtum Lauenburg","Schleswig-Holstein","County",148,18.4,2.75,0.64,7.44,0.19,9.48,186629,65.4,3243319
+"7","Nordfriesland","Schleswig-Holstein","County",80,28.2,2.01,2.38,7.15,0.072,7.42,165771,84.7,3852162
+"8","Ostholstein","Schleswig-Holstein","County",147,19,2.27,0.5,6.35,0.451,9.31,204948,83.6,3726932
+"9","Pinneberg","Schleswig-Holstein","County",455,24.2,2.9,1.88,7.88,0.529,7.71,302430,120.8,6249941
+"10","Ploen","Schleswig-Holstein","County",124,15.9,2.76,1.96,6.55,0.178,10.18,134573,43.4,1824310
+"11","Rendsburg-Eckernfoerde","Schleswig-Holstein","County",124,23.1,2.5,0.73,7.28,0.057,6.65,270626,111.8,5859654
+"12","Schleswig-Flensburg","Schleswig-Holstein","County",96,20.4,2.93,1.14,7.89,0.21,10.03,198426,78.5,3668968
+"13","Segeberg","Schleswig-Holstein","County",192,25.8,1.66,1.35,7.96,0.252,6.11,258150,114.7,5937320
+"14","Steinburg","Schleswig-Holstein","County",126,27,2.41,1.41,7.48,-0.122,7.34,133370,54,3191753
+"15","Stormarn","Schleswig-Holstein","County",298,27.5,1.5,2.25,7.82,0.709,4.56,228327,106.4,5225298
+"16","Braunschweig","Niedersachsen","County-Level City",1288,35.5,0.39,1.3,8.54,0.82,7.47,247400,152.4,7870522
+"17","Salzgitter","Niedersachsen","County-Level City",462,34.1,0.35,-0.34,7.43,-0.442,8.82,103446,56.4,3640845
+"18","Wolfsburg","Niedersachsen","County-Level City",594,81.8,0.36,0.1,8.25,0.705,3.85,121109,111.8,9818707
+"19","Gifhorn","Niedersachsen","County",111,15.6,1.68,1.7,8.05,-0.234,11.09,173223,53.7,2347766
+"20","Goettingen","Niedersachsen","County",232,27.2,1.01,1.15,7.6,0.026,9.66,259281,128.7,6396776
+"21","Goslar","Niedersachsen","County",150,21.2,0.96,0.21,5.99,-0.262,10.63,144680,62.6,3014333
+"22","Helmstedt","Niedersachsen","County",139,16.2,1.37,-0.07,6.39,-0.414,14.9,93903,29.2,1533631
+"23","Northeim","Niedersachsen","County",111,21.8,2.92,1.05,6.57,-0.605,9.98,140553,58.2,2804340
+"24","Osterode am Harz","Niedersachsen","County",123,26.4,0.83,1.77,6.4,-0.644,10.67,78253,36.3,1780567
+"25","Peine","Niedersachsen","County",247,18.4,1.15,1.77,7.62,-0.023,12.5,132066,43.6,2101151
+"26","Wolfenbuettel","Niedersachsen","County",170,15.1,2.27,1.9,6.38,-0.257,11.92,122806,35.3,1585093
+"27","Region Hannover","Niedersachsen","County",493,35.6,0.58,2.01,8.43,0.232,8.41,1130262,623.7,34028077
+"29","Diepholz","Niedersachsen","County",107,22.7,2.54,1.51,7.32,-0.034,6.36,213634,90.7,4267489
+"30","Hameln-Pyrmont","Niedersachsen","County",195,27.3,1.44,1.17,6.91,-0.166,10.39,155164,69.4,3824792
+"31","Hildesheim","Niedersachsen","County",236,21.5,0.91,1,6.97,-0.258,9.55,284551,121.1,5615842
+"32","Holzminden","Niedersachsen","County",107,22.7,1.32,0.27,7.25,-0.653,10.66,74094,30.2,1638356
+"33","Nienburg (Weser)","Niedersachsen","County",88,21.8,2.28,0.14,7.47,-0.302,8.64,122989,52.7,2653229
+"34","Schaumburg","Niedersachsen","County",239,18.3,0.81,0.09,6.84,-0.178,11.03,161746,61.9,2928623
+"35","Celle","Niedersachsen","County",116,23,1.95,0.26,7.98,-0.112,9.41,179247,76.9,4030075
+"36","Cuxhaven","Niedersachsen","County",97,16.7,3.07,1.45,7.31,0.063,11.35,201188,68.3,2962614
+"37","Harburg","Niedersachsen","County",197,17.8,2.49,2.53,7.6,0.605,7.48,245624,80.2,3552276
+"38","Luechow-Dannenberg","Niedersachsen","County",41,17.7,3.7,0.89,6.34,0.243,13.78,49699,18.9,816093
+"39","Lueneburg","Niedersachsen","County",134,20.4,1.86,1.9,8.45,0.433,8.77,177042,75.4,3090850
+"40","Osterholz","Niedersachsen","County",172,16.1,1.85,1.63,7.15,0.02,7.74,112029,37.8,1576900
+"41","Rotenburg (Wuemme)","Niedersachsen","County",79,23.5,2.69,2.71,8.1,-0.18,5.79,164064,78,3102324
+"42","Heidekreis","Niedersachsen","County",75,25.8,2,2.39,7.91,-0.195,8.32,140053,70,2978472
+"43","Stade","Niedersachsen","County",156,24.5,3.27,1.53,8.33,0.173,8.9,196952,82.5,4246258
+"44","Uelzen","Niedersachsen","County",65,21,3.68,1.96,6.92,0.121,9.46,94428,40.8,1683129
+"45","Verden","Niedersachsen","County",169,24.2,2.45,1.1,7.99,0.041,7.32,133328,57.1,2938011
+"46","Delmenhorst","Niedersachsen","County-Level City",1195,19.3,0.6,1.91,7.3,-0.067,11.97,74512,33.6,1226173
+"47","Emden","Niedersachsen","County-Level City",457,41.6,0.26,-0.62,8.5,-0.174,7.17,51292,38,2263073
+"48","Oldenburg (Oldenburg)","Niedersachsen","County-Level City",1567,39.6,0.28,2.45,8.82,0.759,7.36,161334,106.4,5238962
+"49","Osnabrueck","Niedersachsen","County-Level City",1365,37.4,0.25,-0.26,8.34,0.271,5.49,163514,117.8,6270183
+"50","Wilhelmshaven","Niedersachsen","County-Level City",759,34.5,0.63,0.89,6.77,0.287,9.49,81137,47.8,2593649
+"51","Ammerland","Niedersachsen","County",161,21.8,7.13,2.8,7.23,0.612,7.08,117517,51.9,2045054
+"52","Aurich","Niedersachsen","County",147,18.5,2.28,1.96,7.78,0.131,11.08,188973,74.7,2979233
+"53","Cloppenburg","Niedersachsen","County",111,24.9,5.56,3.44,9.99,0.077,6.57,157506,75.6,2991574
+"54","Emsland","Niedersachsen","County",109,31.6,1.89,3.58,8.69,-0.169,4.34,313098,164.3,7486673
+"55","Friesland","Niedersachsen","County",164,19.1,1.76,-0.36,7.01,-0.046,9.05,99851,39.8,1973589
+"56","Grafschaft Bentheim","Niedersachsen","County",138,22.7,1.74,1.75,8.62,-0.055,4.77,135346,63.3,2648892
+"57","Leer","Niedersachsen","County",152,23.4,2.07,4.27,8.11,0.166,9.75,164837,67.5,2780399
+"58","Oldenburg","Niedersachsen","County",119,17.3,3.08,1.3,7.96,0.656,8.32,126571,45.4,1956170
+"59","Osnabrueck","Niedersachsen","County",168,21.5,2.21,2.41,8.07,-0.166,5.93,357056,149.4,6295265
+"60","Vechta","Niedersachsen","County",164,30.9,3.58,3.37,9.77,0.079,3.81,134838,81.1,3198089
+"61","Wesermarsch","Niedersachsen","County",111,30.3,1.86,3,7.09,-0.36,9.74,91228,37.6,2175332
+"62","Wittmund","Niedersachsen","County",87,18.5,2.9,2.16,7.6,0.11,9.38,57391,24.1,889423
+"63","Bremerhaven","Bremen","County-Level City",1446,32.3,0.3,2.72,8.53,0.001,13.66,114031,67.7,2962063
+"64","Duesseldorf","Nordrhein-Westfalen","County-Level City",2699,70.4,0.26,2.27,9.65,0.419,5.87,586217,492.5,34243789
+"65","Duisburg","Nordrhein-Westfalen","County-Level City",2113,30,0.36,1.68,8.33,-0.03,13.79,491931,224.3,12803238
+"66","Essen","Nordrhein-Westfalen","County-Level City",2740,40.2,0.51,3.35,8.02,-0.145,10.99,576259,316.4,17823291
+"67","Krefeld","Nordrhein-Westfalen","County-Level City",1709,32.3,0.67,0.39,7.77,-0.026,10.15,235414,119,7347536
+"68","Moenchengladbach","Nordrhein-Westfalen","County-Level City",1515,26.4,0.48,1.28,8.19,0.093,12.17,258251,123.9,6108117
+"69","Muelheim an der Ruhr","Nordrhein-Westfalen","County-Level City",1834,33.1,0.73,3.54,7.51,0.044,8.31,167471,81.7,4209394
+"70","Oberhausen","Nordrhein-Westfalen","County-Level City",2776,23.7,0.44,1.72,7.32,-0.26,14.5,214024,90.5,4399070
+"71","Remscheid","Nordrhein-Westfalen","County-Level City",1494,28.2,0.5,-0.19,7.68,-0.761,8.32,111422,59.6,3195179
+"72","Solingen","Nordrhein-Westfalen","County-Level City",1799,23.6,0.43,0.93,7.72,-0.134,10.25,160992,69.2,3511284
+"73","Wuppertal","Nordrhein-Westfalen","County-Level City",2085,30,0.55,0.36,8.34,-0.29,12.65,351050,163.1,10192151
+"74","Kleve","Nordrhein-Westfalen","County",250,22.5,4.84,3.47,7.82,0.133,6.67,308090,132.3,5279366
+"75","Mettmann","Nordrhein-Westfalen","County",1219,32.8,0.66,2.47,7.34,-0.228,7.11,496445,241.5,13335736
+"76","Rhein-Kreis Neuss","Nordrhein-Westfalen","County",769,34.4,1.19,3.7,7.96,0.083,7.52,443112,193.4,11423079
+"77","Viersen","Nordrhein-Westfalen","County",536,23.4,2.65,1.49,7.11,0.04,7.85,301797,124.5,6236949
+"78","Wesel","Nordrhein-Westfalen","County",451,22.3,1.6,3.03,6.98,-0.011,9.14,470364,187.6,8247099
+"79","Bonn","Nordrhein-Westfalen","County-Level City",2265,70.3,0.26,3.81,9.81,0.461,5,319841,231.3,16739475
+"80","Koeln","Nordrhein-Westfalen","County-Level City",2463,48.2,0.21,1.69,9.87,0.227,8.21,998105,670.4,41788655
+"81","Leverkusen","Nordrhein-Westfalen","County-Level City",2036,37.8,0.38,-1.38,8.09,-0.22,9.94,160593,78,6921814
+"84","Dueren","Nordrhein-Westfalen","County",285,23,1.44,1.41,7.39,-0.047,9.2,268637,111.3,5478859
+"85","Rhein-Erft-Kreis","Nordrhein-Westfalen","County",659,27.5,1.15,2.48,7.98,0.201,10.24,464018,182.5,10413680
+"86","Euskirchen","Nordrhein-Westfalen","County",154,21.4,1.33,1.59,7.38,0.073,7.76,192088,75.3,3601262
+"87","Heinsberg","Nordrhein-Westfalen","County",406,18.2,1.6,2.23,7.58,-0.045,10.16,255158,94,3876531
+"88","Oberbergischer Kreis","Nordrhein-Westfalen","County",308,25.6,0.92,1.01,7.93,-0.482,6.97,282636,130.8,6622046
+"89","Rheinisch-Bergischer Kreis","Nordrhein-Westfalen","County",634,20.8,1.22,0.74,7.69,0.109,9.15,277214,106.8,5419959
+"90","Rhein-Sieg-Kreis","Nordrhein-Westfalen","County",519,22.5,1.75,2.54,8.08,0.119,8.17,598407,222.3,10934716
+"91","Bottrop","Nordrhein-Westfalen","County-Level City",1165,18.7,1.64,2.13,7.51,0.049,10.71,117241,48.9,1835860
+"92","Gelsenkirchen","Nordrhein-Westfalen","County-Level City",2477,26.1,0.45,1.02,8.52,-0.408,17.39,259744,110.4,6219396
+"93","Muenster","Nordrhein-Westfalen","County-Level City",910,52.6,0.65,1.91,9.23,0.561,4.51,275543,198.6,12358925
+"94","Borken","Nordrhein-Westfalen","County",260,26.4,1.96,2.42,8.75,-0.167,4.97,369666,183.6,8009830
+"95","Coesfeld","Nordrhein-Westfalen","County",198,21.4,2.31,2.04,7.69,-0.059,4.76,220261,91.1,3982402
+"96","Recklinghausen","Nordrhein-Westfalen","County",832,20.9,1.05,3.18,7.22,-0.098,14.82,632535,237.8,10262284
+"97","Steinfurt","Nordrhein-Westfalen","County",247,23.4,1.37,2.28,8.32,-0.073,5.17,443643,204,8600685
+"98","Warendorf","Nordrhein-Westfalen","County",212,24.8,2.4,2.03,8.06,-0.253,5.81,279003,125.1,5852032
+"99","Bielefeld","Nordrhein-Westfalen","County-Level City",1253,31.7,0.49,1.75,9.03,0.022,8.47,323084,184.2,8854374
+"100","Guetersloh","Nordrhein-Westfalen","County",365,36.1,1.18,2.41,8.55,-0.062,4.52,353514,194.5,10501447
+"101","Herford","Nordrhein-Westfalen","County",556,26.8,0.84,0.7,8.21,-0.231,7.07,250247,118.6,6306941
+"102","Hoexter","Nordrhein-Westfalen","County",124,21.3,1.6,1.02,7.83,-0.535,7.35,148470,62.5,2902078
+"103","Lippe","Nordrhein-Westfalen","County",283,22.9,1.17,0.61,8.39,-0.324,9.28,353007,153.2,7671485
+"104","Minden-Luebbecke","Nordrhein-Westfalen","County",274,30.7,0.88,1.22,8.3,-0.287,6.21,315784,159.2,8729400
+"105","Paderborn","Nordrhein-Westfalen","County",240,28.2,0.99,2.56,9.5,-0.046,7.15,299106,151.3,6855021
+"106","Bochum","Nordrhein-Westfalen","County-Level City",2587,25.9,0.33,0.17,7.21,-0.162,10.18,376319,180.3,9590945
+"107","Dortmund","Nordrhein-Westfalen","County-Level City",2073,30.4,0.43,2.75,8.23,-0.198,12.64,581308,305.6,14169433
+"108","Hagen","Nordrhein-Westfalen","County-Level City",1186,28.3,0.51,0.51,7.61,-0.614,10.62,190121,98.1,5150586
+"109","Hamm","Nordrhein-Westfalen","County-Level City",803,24.4,0.88,3.71,8.36,-0.122,11.24,181741,79.5,3326442
+"110","Herne","Nordrhein-Westfalen","County-Level City",3222,19.3,0.3,2.06,7.23,-0.251,14.79,165632,66.7,2699796
+"111","Ennepe-Ruhr-Kreis","Nordrhein-Westfalen","County",817,24.3,0.63,1.44,7,-0.139,9.08,333729,143.3,7195840
+"112","Hochsauerlandkreis","Nordrhein-Westfalen","County",138,26.9,1.15,1.18,7.79,-0.401,5.84,269927,139.7,6563461
+"113","Maerkischer Kreis","Nordrhein-Westfalen","County",410,27.2,0.58,0.43,7.95,-0.55,6.77,434031,208.4,11352378
+"114","Olpe","Nordrhein-Westfalen","County",196,28.2,0.81,1.88,7.86,-0.42,4.22,139666,73.7,3371848
+"115","Siegen-Wittgenstein","Nordrhein-Westfalen","County",251,31.2,0.47,1.86,7.64,-0.352,5.67,284405,149.8,7599731
+"116","Soest","Nordrhein-Westfalen","County",230,27.3,1.87,1.6,8.14,-0.081,7,305097,144.3,7290666
+"117","Unna","Nordrhein-Westfalen","County",763,23.3,0.94,3.19,7.07,-0.276,12.72,414056,159.7,7512484
+"118","Darmstadt","Hessen","County-Level City",1174,59.4,0.41,2.07,10.42,0.645,4.75,143332,123.3,7173435
+"119","Frankfurt am Main","Hessen","County-Level City",2706,84.6,0.19,1.54,10.66,0.768,4.44,671927,640,49953555
+"120","Offenbach am Main","Hessen","County-Level City",2646,33.6,0.31,-0.66,10.74,-0.566,10.25,118770,65,4242022
+"121","Wiesbaden, Landeshauptstadt","Hessen","County-Level City",1361,50.8,0.51,2.03,10.07,0.233,5.88,277493,177.2,11922203
+"122","Bergstra_e","Hessen","County",365,25,1.4,2.01,7.57,0.017,7.9,262796,100.1,5550990
+"123","Darmstadt-Dieburg","Hessen","County",439,20.6,1.63,1.63,7.74,0.166,8.16,288918,98.4,5177824
+"124","Gro_-Gerau","Hessen","County",560,33.9,0.78,-0.37,8.87,0.074,7.51,253599,115.7,8900267
+"125","Hochtaunuskreis","Hessen","County",469,41,0.64,1.4,8.16,0.354,3.87,226290,109.9,8246376
+"126","Main-Kinzig-Kreis","Hessen","County",291,26.7,0.97,1.09,7.83,0.098,7.08,407022,164.9,9900115
+"127","Main-Taunus-Kreis","Hessen","County",1019,44.3,0.61,0.54,8.99,0.229,4.23,226647,114.5,9571247
+"128","Odenwaldkreis","Hessen","County",156,20,0.81,0.99,7.59,-0.227,7.45,97502,37,1788560
+"129","Offenbach","Hessen","County",946,32.6,0.66,2.71,8.32,0.139,7.41,337163,152.4,8841046
+"130","Rheingau-Taunus-Kreis","Hessen","County",226,19.5,2.07,1.04,7.47,0.106,6.86,183303,62.7,3271715
+"131","Wetteraukreis","Hessen","County",271,22.5,0.95,2.34,7.94,0.096,7.35,298179,116.1,5536309
+"132","Gie_en","Hessen","County",299,28.6,0.62,0.79,7.91,0.32,9.2,255765,129.2,6829784
+"133","Lahn-Dill-Kreis","Hessen","County",239,27.1,0.65,1.41,7.98,-0.349,6.96,254878,122.8,6132007
+"134","Limburg-Weilburg","Hessen","County",232,22.9,0.82,2.09,7.74,-0.404,7.67,171487,72.8,3310579
+"135","Marburg-Biedenkopf","Hessen","County",199,28.3,0.67,1.85,7.54,-0.069,6.01,251150,119.2,6092816
+"136","Vogelsbergkreis","Hessen","County",76,20,1.58,0.86,6.77,-0.726,8.35,110989,44.2,2064724
+"137","Kassel","Hessen","County-Level City",1824,42.1,0.42,1.86,8.91,0.473,8.1,194774,143.4,7019806
+"138","Fulda","Hessen","County",158,29.6,0.69,2.53,8.09,-0.108,5.03,217759,116.3,5248413
+"139","Hersfeld-Rotenburg","Hessen","County",112,30,0.84,2.25,6.99,-0.388,6.88,122812,59.2,3061159
+"140","Kassel","Hessen","County",184,21,1.09,0.11,6.74,-0.059,7.64,237973,91.7,4958626
+"141","Schwalm-Eder-Kreis","Hessen","County",119,23.4,1.06,1.83,6.88,-0.375,7.97,183714,75.8,3692773
+"142","Waldeck-Frankenberg","Hessen","County",88,26,1.01,0.96,7.55,-0.452,6.47,163129,79.4,3900579
+"143","Werra-Mei_ner-Kreis","Hessen","County",102,20.5,1.87,0.09,6.73,-0.41,9.84,104580,42.8,2125401
+"144","Koblenz","Rheinland-Pfalz","County-Level City",1013,60,0.3,1.22,8.5,0.49,4.13,106445,99.3,5755666
+"145","Ahrweiler","Rheinland-Pfalz","County",163,19.5,2.84,1.99,6.82,0.177,6.28,128063,49.3,2113548
+"146","Altenkirchen (Westerwald)","Rheinland-Pfalz","County",207,20.8,0.74,1.13,7.07,-0.249,6.75,132873,53.9,2505832
+"147","Bad Kreuznach","Rheinland-Pfalz","County",180,23.5,1.22,2.17,7.71,-0.14,7.42,155842,73.6,3065497
+"148","Birkenfeld","Rheinland-Pfalz","County",108,22.7,0.52,1.17,7.57,-0.644,7.87,84201,38.8,1726888
+"149","Cochem-Zell","Rheinland-Pfalz","County",89,23.7,1.68,2.66,6.7,-0.33,4.88,63884,29.8,1222675
+"150","Mayen-Koblenz","Rheinland-Pfalz","County",258,23.4,0.87,1.89,7.65,-0.167,7.05,211079,92.1,4229189
+"151","Neuwied","Rheinland-Pfalz","County",290,24.5,0.73,0.92,7.64,-0.177,6.91,181492,81.7,4106694
+"152","Rhein-Hunsrueck-Kreis","Rheinland-Pfalz","County",107,24.7,1.2,1.5,7.78,-0.379,5.64,102878,49.8,2239763
+"153","Rhein-Lahn-Kreis","Rheinland-Pfalz","County",159,20.1,1.02,1.14,7.19,-0.308,6.17,124474,48.9,2274548
+"154","Westerwaldkreis","Rheinland-Pfalz","County",202,26.4,0.75,2.27,7.76,-0.336,5.51,199480,93.5,4365437
+"155","Trier","Rheinland-Pfalz","County-Level City",893,37.7,0.51,2.38,9.04,0.039,4.14,104587,79.2,3243186
+"156","Bernkastel-Wittlich","Rheinland-Pfalz","County",95,24.7,1.96,2.84,7.17,-0.417,4.09,111543,56.1,2191289
+"157","Eifelkreis Bitburg-Pruem","Rheinland-Pfalz","County",58,23,1.22,2.53,8.13,-0.184,3.73,94394,40.9,1771196
+"158","Vulkaneifel","Rheinland-Pfalz","County",68,23.3,1.37,1.44,7.36,-0.081,5.4,61789,29.2,1277179
+"159","Trier-Saarburg","Rheinland-Pfalz","County",130,14.3,1.67,1.21,8.14,0.372,4.79,141481,48,1830559
+"160","Frankenthal (Pfalz)","Rheinland-Pfalz","County-Level City",1071,28.9,0.88,2.3,7.32,0.181,7.66,46874,22.6,1122694
+"161","Kaiserslautern","Rheinland-Pfalz","County-Level City",711,36.7,0.15,0.94,7.91,2.209,7.44,99275,67.6,3363291
+"162","Landau in der Pfalz","Rheinland-Pfalz","County-Level City",518,34.9,0.7,2.86,8.63,0.216,4.17,42994,28.4,1194372
+"163","Ludwigshafen am Rhein","Rheinland-Pfalz","County-Level City",2106,62.2,0.62,0.55,8.95,0.032,6.45,163340,113.6,9691524
+"164","Mainz","Rheinland-Pfalz","County-Level City",2024,50.2,0.34,1.26,9.11,0.025,4.27,197778,145.5,8927547
+"165","Neustadt an der Weinstra_e","Rheinland-Pfalz","County-Level City",457,24.5,1.81,1.51,6.71,0.09,5.39,53525,27.7,1154200
+"166","Pirmasens","Rheinland-Pfalz","County-Level City",665,31.2,0.38,0.47,7.89,-0.485,10.7,40808,26.6,1221901
+"167","Speyer","Rheinland-Pfalz","County-Level City",1170,38.3,0.28,2.47,8.57,0.074,5.13,49811,35.1,1558722
+"168","Worms","Rheinland-Pfalz","County-Level City",752,26.6,0.97,1.53,7.89,0.024,7.72,81784,41.1,1908979
+"169","Zweibruecken","Rheinland-Pfalz","County-Level City",483,40,0.42,3.18,7.15,-0.748,6.15,34109,23.9,1059446
+"170","Alzey-Worms","Rheinland-Pfalz","County",212,19.7,3.42,2.24,7.86,-0.209,7.31,124758,43.9,2049672
+"171","Bad Duerkheim","Rheinland-Pfalz","County",224,18.7,3.47,1.85,7.01,0.058,5.57,133052,46.1,2133652
+"172","Donnersbergkreis","Rheinland-Pfalz","County",119,18.2,1.05,0.8,7.71,-0.649,7.88,76571,28.5,1297473
+"173","Germersheim","Rheinland-Pfalz","County",270,22.9,1.75,2.3,8.07,-0.389,5,124982,57,2373964
+"174","Kaiserslautern","Rheinland-Pfalz","County",166,15.9,0.91,2.01,7.53,-0.634,9.31,106149,33.1,1431164
+"175","Kusel","Rheinland-Pfalz","County",128,14.8,1.33,0.78,7.01,-0.401,10.38,73306,22.5,1013608
+"176","Suedliche Weinstra_e","Rheinland-Pfalz","County",171,19.6,3.16,2.15,7.06,-0.105,5.72,109133,41.1,1791672
+"177","Rhein-Pfalz-Kreis","Rheinland-Pfalz","County",488,14.7,10.4,2.49,6.97,0.108,7.34,148733,42.3,1791137
+"178","Mainz-Bingen","Rheinland-Pfalz","County",333,26.7,2.42,4.05,7.71,0.197,6.67,201583,70.3,3938651
+"179","Suedwestpfalz","Rheinland-Pfalz","County",104,12.8,1.22,0.83,5.91,-0.459,10.82,99605,24.6,1182352
+"180","Stuttgart, Landeshauptstadt","Baden-Wuerttemberg","County-Level City",2902,62.7,0.29,1.11,9.23,0.195,3.27,601646,476.6,34271512
+"181","Boeblingen","Baden-Wuerttemberg","County",601,39.6,0.52,0.79,8.86,-0.439,3.64,371616,212.5,13753348
+"182","Esslingen","Baden-Wuerttemberg","County",801,30.2,0.67,0.87,8.85,-0.134,3.71,514109,252.1,14404735
+"183","Goeppingen","Baden-Wuerttemberg","County",395,24.8,0.62,0.32,7.73,-0.289,4.61,253522,113.3,6119063
+"184","Ludwigsburg","Baden-Wuerttemberg","County",753,32.5,1.16,1.82,8.86,0.113,4.12,516874,242.3,14440461
+"185","Rems-Murr-Kreis","Baden-Wuerttemberg","County",484,26.2,1.01,0.53,7.76,-0.006,4.45,415696,187.4,10418242
+"186","Heilbronn","Baden-Wuerttemberg","County-Level City",1226,42,0.41,-0.37,8.98,0.344,3.67,122415,98.2,5313673
+"187","Heilbronn","Baden-Wuerttemberg","County",299,34.6,1.3,3.65,8.13,-0.12,4.5,329054,153.5,8566847
+"188","Hohenlohekreis","Baden-Wuerttemberg","County",140,34.6,1.28,2.33,8.25,-0.297,3.06,109028,62.5,3120840
+"189","Schwaebisch Hall","Baden-Wuerttemberg","County",127,31.1,0.99,3.05,8.25,-0.119,3.25,188694,101.1,4602663
+"190","Main-Tauber-Kreis","Baden-Wuerttemberg","County",103,29.1,0.85,1.25,7.29,-0.24,4.02,134211,70.5,3506798
+"191","Heidenheim","Baden-Wuerttemberg","County",210,30.6,0.62,1.09,7.47,-0.478,4.51,131854,64.7,3678306
+"192","Ostalbkreis","Baden-Wuerttemberg","County",206,28.1,0.71,1.72,8.39,-0.355,3.95,312129,154.2,7610300
+"193","Baden-Baden","Baden-Wuerttemberg","County",389,44.3,1,3.26,7.08,0.033,3.99,54494,40.2,1864966
+"194","Karlsruhe","Baden-Wuerttemberg","County",1683,53.8,0.18,2.39,8.55,0.505,4.15,291959,223.2,12926628
+"195","Karlsruhe","Baden-Wuerttemberg","County",398,29.4,0.82,2.74,7.72,0.219,4.22,431606,194.9,10162221
+"196","Rastatt","Baden-Wuerttemberg","County",307,28.9,0.92,1.23,7.58,0.134,3.99,226912,108.2,5906013
+"197","Heidelberg","Baden-Wuerttemberg","County-Level City",1346,47,0.36,1.98,8.81,0.498,3.41,146466,110.6,5841703
+"198","Mannheim, Universitaetsstadt","Baden-Wuerttemberg","County-Level City",2152,51.7,0.31,2.23,8.8,0.345,5.07,311969,224.8,13427920
+"199","Neckar-Odenwald-Kreis","Baden-Wuerttemberg","County",131,23.3,0.76,1.22,7.76,-0.325,4.93,147782,66,3102892
+"200","Rhein-Neckar-Kreis","Baden-Wuerttemberg","County",505,27.5,0.78,2.81,8.17,0.347,5.21,536281,218.1,11790472
+"201","Pforzheim","Baden-Wuerttemberg","County-Level City",1222,32.9,0.28,1.33,8.68,0.112,6.02,119788,71.3,3514964
+"202","Calw","Baden-Wuerttemberg","County",198,21.2,0.97,1.19,7.95,-0.296,5.11,158055,62.1,3034402
+"203","Enzkreis","Baden-Wuerttemberg","County",339,21.2,0.79,0.61,7.52,-0.252,4.12,194554,75.6,3915704
+"204","Freudenstadt","Baden-Wuerttemberg","County",139,26.6,0.65,0.62,8.02,-0.419,4,120637,61.1,3035435
+"205","Freiburg im Breisgau","Baden-Wuerttemberg","County-Level City",1450,39.7,0.26,2.54,9.41,0.88,4.61,221924,153.3,7164959
+"206","Breisgau-Hochschwarzwald","Baden-Wuerttemberg","County",182,21.4,1.32,1.63,8.28,0.133,4.54,250418,105.9,4681771
+"207","Emmendingen","Baden-Wuerttemberg","County",232,21.8,1.22,1.19,8.13,0.154,4.21,157791,65.7,3105712
+"208","Ortenaukreis","Baden-Wuerttemberg","County",225,31.3,0.89,1.78,8.37,0.023,3.64,417267,225.6,11266241
+"209","Rottweil","Baden-Wuerttemberg","County",182,29.5,0.57,0.64,8.17,-0.425,3.59,140307,70.3,3917322
+"210","Schwarzwald-Baar-Kreis","Baden-Wuerttemberg","County",202,27.6,0.44,0.76,8.34,-0.488,3.78,207259,112.8,5352361
+"211","Tuttlingen","Baden-Wuerttemberg","County",183,31.4,0.39,1.88,8.83,-0.295,3.12,134712,76.9,3613981
+"212","Konstanz","Baden-Wuerttemberg","County",339,27,1.28,2.47,7.9,0.615,4.65,277555,132.4,6120639
+"213","Loerrach","Baden-Wuerttemberg","County",276,26.5,0.8,0.82,7.55,0.05,4.9,222401,100.3,5490800
+"214","Waldshut","Baden-Wuerttemberg","County",147,22.8,0.68,1.3,7.9,-0.167,4.41,166384,73.3,3397185
+"215","Reutlingen","Baden-Wuerttemberg","County",257,29.1,0.85,0.91,8.42,-0.032,3.78,280927,141.3,7557629
+"216","Tuebingen","Baden-Wuerttemberg","County",425,24.2,0.5,2.47,8.44,0.813,4.27,220782,100,4372408
+"217","Zollernalbkreis","Baden-Wuerttemberg","County",206,25.5,0.67,0.56,7.91,-0.332,5.18,189337,89.1,4598690
+"218","Ulm, Universitaetsstadt","Baden-Wuerttemberg","County-Level City",1029,59.8,0.26,2.66,9.17,0.341,2.5,122087,117.2,5890215
+"219","Alb-Donau-Kreis","Baden-Wuerttemberg","County",140,23.3,1.08,2.27,8.26,-0.215,3.75,189884,74.1,3676171
+"220","Biberach","Baden-Wuerttemberg","County",134,35.9,0.99,4.33,8.94,0.026,2.32,189403,101.2,4885285
+"221","Bodenseekreis","Baden-Wuerttemberg","County",312,32.2,1.44,1.61,7.9,0.091,3.19,207710,111.4,5841505
+"222","Ravensburg","Baden-Wuerttemberg","County",169,30.7,1.09,1.98,8.83,-0.065,2.85,276363,147.2,7191389
+"223","Sigmaringen","Baden-Wuerttemberg","County",109,26.4,1.03,1.33,8.39,-0.449,4.12,131059,67.9,3095862
+"224","Ingolstadt","Bayern","County-Level City",933,67.4,0.38,4.52,9.33,0.348,2.5,124387,104.2,5960309
+"225","Muenchen, Landeshauptstadt","Bayern","County-Level City",4282,59.5,0.2,1.36,10.75,-0.016,4.06,1330440,951.2,70489048
+"226","Rosenheim","Bayern","County-Level City",1636,39.5,0.45,1.07,9.02,0.355,4.27,60877,44.3,2195280
+"227","Altoetting","Bayern","County",190,39.4,0.68,1.96,7.88,0.066,3.85,107903,58.4,3609672
+"228","Berchtesgadener Land","Bayern","County",121,24.1,0.6,2.22,7.35,0.271,3.45,102034,49.7,2046875
+"229","Bad Toelz-Wolfratshausen","Bayern","County",109,23,1.31,1.24,8.24,0.375,3.57,121247,53.5,2511298
+"230","Dachau","Bayern","County",238,20.4,0.99,2.54,8.32,0.661,4.04,137680,50.7,2290214
+"231","Ebersberg","Bayern","County",233,25.8,1.6,3.49,8.58,0.62,3.51,127907,50.1,2511319
+"232","Eichstaett","Bayern","County",103,22.2,0.84,2.9,8.56,-0.134,2.27,124699,47.5,2195447
+"233","Erding","Bayern","County",145,21.9,1.2,2.42,9.08,0.488,3.31,126370,50,2275542
+"234","Freising","Bayern","County",207,39.7,0.92,3.06,9.52,-0.305,2.27,165483,98,5144365
+"235","Fuerstenfeldbruck","Bayern","County",467,19.2,0.85,2.48,8.66,0.635,5.04,203129,70.8,3188215
+"236","Garmisch-Partenkirchen","Bayern","County",85,22.6,0.72,0.44,7.91,0.147,4.06,86305,41.7,1878037
+"237","Landsberg am Lech","Bayern","County",142,24,1.37,2.84,7.88,0.347,3.35,114134,51,2183998
+"238","Miesbach","Bayern","County",111,25.6,1.54,3.1,8.38,0.397,3.7,95484,45.5,1914250
+"239","Muehldorf a.Inn","Bayern","County",137,24.9,0.8,2.48,8.1,0.286,5.26,110258,50.3,2240546
+"240","Muenchen","Bayern","County",479,89.6,0.63,2.89,9.25,0.557,1.99,319573,237.3,22714957
+"241","Neuburg-Schrobenhausen","Bayern","County",123,28.5,0.95,3.61,8.09,0.236,2.91,91258,42.2,1962686
+"242","Pfaffenhofen a.d.Ilm","Bayern","County",154,24.6,1.28,3.49,8.43,0.23,2.89,116991,47,2186313
+"243","Rosenheim","Bayern","County",173,23.6,1.03,3.47,8.05,0.413,3.64,248819,106.9,4480192
+"244","Starnberg","Bayern","County",267,36.2,0.99,2.31,7.99,0.249,2.76,130010,60.9,3899492
+"245","Traunstein","Bayern","County",111,28.1,0.94,0.84,7.88,0.229,3.26,170614,85.1,4462646
+"246","Weilheim-Schongau","Bayern","County",135,28.9,0.96,3.09,8.21,0.098,3.27,130863,62.5,2958907
+"247","Landshut","Bayern","County-Level City",953,47.1,0.38,3.16,9.32,0.571,3.28,62735,52.4,2301462
+"248","Passau","Bayern","County-Level City",728,51.5,0.21,2.94,6.54,0.389,3.24,50627,47.5,2061810
+"249","Straubing","Bayern","County-Level City",658,42.5,0.54,2.25,7.42,0.571,3.81,44493,36.7,1572336
+"250","Deggendorf","Bayern","County",136,28.6,1.28,1.73,7.63,-0.05,4.17,116851,62.5,2889397
+"251","Freyung-Grafenau","Bayern","County",81,19.1,0.87,1.57,6.7,-0.005,5.43,79685,34.3,1330254
+"252","Kelheim","Bayern","County",106,23.8,1.81,2.24,8.76,0.019,3.99,113071,49.6,2236400
+"253","Landshut","Bayern","County",110,27.9,1.53,3.43,8.39,-0.114,3.93,148350,58.7,3159209
+"254","Passau","Bayern","County",123,22.1,1.01,1.96,7.53,0.08,5.37,187594,79.3,3521312
+"255","Regen","Bayern","County",81,21.5,0.84,1.59,6.74,-0.116,5.53,79327,35.6,1488841
+"256","Rottal-Inn","Bayern","County",92,24.1,1.08,1.74,7.8,-0.099,4.16,118157,55.8,2462815
+"257","Straubing-Bogen","Bayern","County",81,18.7,1.99,2.72,8.09,0.028,4.84,97631,35.1,1464575
+"258","Dingolfing-Landau","Bayern","County",103,43.5,3.89,4.96,7.53,-0.26,2.74,90673,59.1,2724518
+"259","Amberg","Bayern","County-Level City",872,40.7,0.31,1.82,7.71,-0.181,5.37,43715,32.7,1528846
+"260","Regensburg","Bayern","County-Level City",1663,67.5,0.15,2.58,9.85,0.502,3.23,134218,136.8,7348919
+"261","Weiden i.d.OPf.","Bayern","County-Level City",596,46.8,0.25,1.7,6.85,0.181,4.28,42058,39.4,1706462
+"262","Amberg-Sulzbach","Bayern","County",84,18.8,0.79,1.52,7.53,-0.226,6.48,105727,37.8,1749811
+"263","Cham","Bayern","County",85,26.4,0.89,3.37,7.42,-0.174,4.08,128498,67.5,2606684
+"264","Neumarkt i.d.OPf.","Bayern","County",95,27.2,0.67,3.71,8.06,0.091,3.36,128049,60.1,2610659
+"265","Neustadt a.d.Waldnaab","Bayern","County",68,20.4,1.12,1.53,7.56,-0.378,6.22,97791,35.7,1750209
+"266","Regensburg","Bayern","County",132,17.1,1.38,2.41,7.89,0.228,4.67,183045,58.1,2578066
+"267","Schwandorf","Bayern","County",97,24.8,1.02,1.56,7.14,0.099,4.84,142979,68.3,3113601
+"268","Tirschenreuth","Bayern","County",69,24.1,0.92,1.96,7.09,-0.324,6.53,75337,32.7,1543618
+"269","Bamberg","Bayern","County-Level City",1278,48.8,0.45,2.08,8.72,0.1,3.43,69827,66.7,2871128
+"270","Bayreuth","Bayern","County-Level City",1085,45.6,0.34,1.18,7.03,-0.091,4.61,72576,59.1,2992622
+"271","Coburg","Bayern","County-Level City",853,66.9,0.25,5.57,7.43,0.296,4.3,41177,40.3,1835138
+"272","Hof","Bayern","County-Level City",806,34.3,0.3,0.33,7.29,-0.355,6.38,46779,33.5,1557597
+"273","Bamberg","Bayern","County",124,18.1,1.46,3.16,7.91,0.075,6.05,144442,47.9,2034799
+"274","Bayreuth","Bayern","County",84,16.3,1.15,-0.15,7.24,-0.008,7.45,106488,34.7,1763171
+"275","Coburg","Bayern","County",151,20.6,0.84,-0.45,6.79,-0.247,6.84,88943,35.9,1907135
+"276","Forchheim","Bayern","County",176,18.1,1.31,2.11,7.79,0.07,5.92,113236,38.1,1722948
+"277","Hof","Bayern","County",113,23.4,0.66,2.47,6.13,-0.509,6.6,101252,45.2,1937231
+"278","Kronach","Bayern","County",109,25,0.56,0.77,6.92,-0.333,4.92,70941,35.8,1656490
+"279","Kulmbach","Bayern","County",114,26.2,0.8,2.77,6.75,-0.267,6.58,74967,37.5,1573955
+"280","Lichtenfels","Bayern","County",131,28.1,0.56,2.38,7.28,-0.028,5.6,68286,35.6,1582365
+"281","Wunsiedel i.Fichtelgebirge","Bayern","County",128,24.4,0.54,0.68,5.79,-0.312,7.22,77486,37.1,1779171
+"282","Ansbach","Bayern","County-Level City",405,41.6,0.88,2.22,8.31,0.208,3.45,40420,34.1,1400312
+"283","Erlangen","Bayern","County-Level City",1372,71.8,0.21,3.33,9.54,0.518,2.32,105554,96.3,5830026
+"284","Fuerth","Bayern","County-Level City",1800,29.5,0.55,1.13,8.87,0.147,8.49,114044,54.6,3053550
+"285","Nuernberg","Bayern","County-Level City",2702,43.5,0.45,1.63,8.86,0.186,5.78,503673,359.3,19078229
+"286","Schwabach","Bayern","County-Level City",949,28.9,1,0.63,7.23,0.217,4.97,38751,20.1,1061635
+"287","Ansbach","Bayern","County",92,22.9,1.03,2.44,7.84,-0.2,4.29,180719,77.3,3391002
+"288","Erlangen-Hoechstadt","Bayern","County",232,24,0.54,1.74,8.06,0.023,2.93,131059,55.6,2718283
+"289","Fuerth","Bayern","County",372,17.9,0.91,2.71,7.58,0.11,6.68,114475,33.1,1644918
+"290","Nuernberger Land","Bayern","County",208,23.9,0.43,1.91,6.94,0.014,4.26,166491,69.5,3391166
+"291","Neustadt a.d.Aisch-Bad Windsheim","Bayern","County",77,20.8,1.88,1.42,7.17,-0.143,3.79,98044,42.6,1807058
+"292","Roth","Bayern","County",139,20.8,0.99,2.49,7.42,-0.155,4,124329,50.5,2115768
+"293","Wei_enburg-Gunzenhausen","Bayern","County",95,23.2,0.97,1.52,7.9,-0.144,5.07,92586,41.4,1889877
+"294","Aschaffenburg","Bayern","County-Level City",1100,57.9,0.17,3.96,8.66,0.215,3.58,68722,60.4,2931133
+"295","Schweinfurt","Bayern","County-Level City",1500,66.7,0.16,1.75,8.8,0.329,3.44,53533,61.7,3083977
+"296","Wuerzburg","Bayern","County-Level City",1520,44.1,0.36,1.14,7.21,0.092,3.24,133195,112,5330863
+"297","Aschaffenburg","Bayern","County",247,27.2,1,1.49,7.36,-0.208,4.05,172990,70.3,4151036
+"298","Bad Kissingen","Bayern","County",92,22.7,0.96,0.89,6.99,-0.27,4.98,104932,52,2200442
+"299","Rhoen-Grabfeld","Bayern","County",82,26.1,0.99,1.79,6.9,-0.252,4.36,83442,40.4,1877275
+"300","Ha_berge","Bayern","County",89,22.5,1.26,0.46,7.37,-0.353,4.67,85379,39.7,1842601
+"301","Kitzingen","Bayern","County",130,25.3,2.26,2.74,7.67,-0.079,3.7,88692,44.3,1801187
+"302","Miltenberg","Bayern","County",180,24.1,1.05,1.91,7.9,-0.327,4.61,129047,57,2652651
+"303","Main-Spessart","Bayern","County",97,25.6,0.99,0.94,6.86,-0.271,3.05,128637,60.8,3035055
+"304","Schweinfurt","Bayern","County",135,19.4,1.48,2.5,7.26,-0.321,5.62,113425,33.8,1791547
+"305","Wuerzburg","Bayern","County",165,20.5,1.67,2.78,7.84,-0.156,4.49,159963,53.9,2623524
+"306","Augsburg","Bayern","County-Level City",1795,40.7,0.28,1.28,8.53,0.388,5.85,263646,177.9,9627498
+"307","Kaufbeuren","Bayern","County-Level City",1046,29.1,0.4,0.98,8.21,0.277,5.13,41881,25.2,1119554
+"308","Kempten (Allgaeu)","Bayern","County-Level City",980,42.2,0.21,2.98,8.74,0.2,3.18,62007,47.4,2062715
+"309","Memmingen","Bayern","County-Level City",586,46.8,0.83,2.83,9.08,0.319,2.34,41085,36.3,1532147
+"310","Aichach-Friedberg","Bayern","County",164,22.3,1.32,2.51,8.1,0.127,4.04,127859,52.9,2324532
+"311","Augsburg","Bayern","County",224,21.2,0.87,1.96,7.49,-0.02,4.43,239898,92.1,4324267
+"312","Dillingen a.d.Donau","Bayern","County",119,24.3,1.43,2.79,8.36,-0.228,3.52,94009,42,1826882
+"313","Guenzburg","Bayern","County",158,35.7,0.81,2.91,8.85,-0.381,2.92,120619,62.1,3411003
+"314","Neu-Ulm","Bayern","County",320,27.2,0.51,1.83,8.48,0.306,3.42,165201,78.1,3860496
+"315","Lindau (Bodensee)","Bayern","County",247,25.5,1.03,1.61,7.41,0.093,2.98,79858,39,1775591
+"316","Ostallgaeu","Bayern","County",96,25.3,0.95,1.99,7.98,0.168,3.06,134070,63.2,2880841
+"317","Unterallgaeu","Bayern","County",110,25.1,1.25,2.15,8.11,-0.074,2.5,135286,63.8,2842071
+"318","Donau-Ries","Bayern","County",101,37.2,1.04,4.92,8.51,-0.172,2.28,129181,77.1,3330989
+"319","Oberallgaeu","Bayern","County",98,23,1.16,2.33,7.59,-0.008,3.52,150153,68.9,2855206
+"321","Merzig-Wadern","Saarland","County",190,22.4,0.94,2.17,6.68,0.02,6.31,105241,42.6,1972646
+"322","Neunkirchen","Saarland","County",556,18.8,0.56,-0.01,6.39,-0.325,9.29,138586,53.4,2611440
+"323","Saarlouis","Saarland","County",445,27.2,0.52,3.1,6.64,-0.341,6.38,204448,96.3,4353146
+"324","Saarpfalz-Kreis","Saarland","County",358,30.6,0.5,0.89,6.72,-0.18,5.02,149680,80.3,4232693
+"325","St. Wendel","Saarland","County",191,21,0.57,0.62,6.44,-0.235,5.65,91161,35.3,1813003
+"326","Brandenburg an der Havel","Brandenburg","County-Level City",316,24.5,0.52,2.37,7.58,0.14,15.46,72264,38.3,1459005
+"327","Cottbus","Brandenburg","County-Level City",619,27.2,0.61,1,7.78,0.158,12.31,101671,65.7,2536890
+"328","Frankfurt (Oder)","Brandenburg","County-Level City",410,32.3,0.72,1.88,7.47,-0.67,12.54,60625,41.5,1675842
+"329","Potsdam","Brandenburg","County",825,34.7,0.46,3.16,10.7,0.845,6.12,154606,108,4173586
+"330","Barnim","Brandenburg","County",120,15.9,2.34,2.41,7.73,0.226,19.18,176904,64.2,2319132
+"331","Dahme-Spreewald","Brandenburg","County",71,29,3.66,7.41,7.44,0.404,11.16,161708,68.3,2814118
+"332","Elbe-Elster","Brandenburg","County",60,17.7,5.49,1.02,6.21,-1.025,23.84,113586,45.5,1846260
+"333","Havelland","Brandenburg","County",90,15.3,3.84,2.57,7.52,0.172,16.96,154984,57.3,1925665
+"334","Maerkisch-Oderland","Brandenburg","County",89,17.1,3.81,1.58,7.16,-0.176,19.6,191067,68.3,2859349
+"335","Oberhavel","Brandenburg","County",113,19.6,2.37,4.23,7.55,0.555,18.81,202776,71.7,2882072
+"336","Oberspreewald-Lausitz","Brandenburg","County",101,18.2,3.09,1.6,6.47,-0.809,24.36,123426,48.6,1966687
+"337","Oder-Spree","Brandenburg","County",83,18.8,2.78,0.54,7.37,-0.485,17.54,185062,71.9,3314025
+"338","Ostprignitz-Ruppin","Brandenburg","County",41,19.3,5.77,1.66,7.04,-0.603,19.35,103734,46.8,1740264
+"339","Potsdam-Mittelmark","Brandenburg","County",79,17.9,4.76,1.75,7.15,0.406,11.6,204594,77.7,3171854
+"340","Prignitz","Brandenburg","County",39,18.5,5.87,1.94,5.92,-0.66,18.72,83086,35.8,1306890
+"341","Spree-Nei_e","Brandenburg","County",78,28.8,3.38,4.58,6.16,-1.119,21.32,128470,47.3,2616993
+"342","Teltow-Flaeming","Brandenburg","County",77,21,3.25,0.23,7.62,0.172,13.76,161847,67.6,3330995
+"343","Uckermark","Brandenburg","County",43,19.9,5.44,-0.56,6.73,-0.773,25.62,131115,53.3,2744940
+"346","Rostock, Hansestadt","Mecklenburg-Vorpommern","County-Level City",1111,28.8,0.47,2.01,9.07,0.235,13.04,201442,107.3,4908726
+"347","Schwerin, Landeshauptstadt","Mecklenburg-Vorpommern","County-Level City",728,30.9,0.3,1.7,8.49,-0.162,10.49,95041,65.7,2542254
+"397","Chemnitz, Stadt","Sachsen","County",1101,27.1,0.27,1.35,7.89,0.191,10.97,243089,147.1,5881314
+"398","Erzgebirgskreis","Sachsen","County",204,16.4,1.91,1.55,7.66,-0.778,16.84,372390,152.1,5360562
+"399","Mittelsachsen","Sachsen","County",157,21,3.08,3.19,7.45,-0.555,14.13,332236,146,5418999
+"400","Vogtlandkreis","Sachsen","County",175,18.9,2.05,1.12,6.94,-0.48,14.1,247196,107.2,4235982
+"401","Zwickau","Sachsen","County",364,21,1.56,1.37,7.16,-0.428,13.66,345118,160.7,6450728
+"402","Dresden, Stadt","Sachsen","County-Level City",1575,30.4,0.43,3.05,10.85,0.817,9.74,517052,301.9,12342105
+"403","Bautzen","Sachsen","County",136,19,2.28,1.71,7.66,-0.795,15.65,325032,140.1,5349226
+"404","Goerlitz","Sachsen","County",133,19.1,2.37,3.66,7.44,-0.724,20.89,281076,113.7,4035800
+"405","Mei_en","Sachsen","County",175,19.6,2.94,1.51,7.64,-0.439,14.22,254483,108.9,4391125
+"406","Saechsische Schweiz-Osterzgebirge","Sachsen","County",154,16.4,3.62,1.82,7.92,-0.219,15.8,253843,99.5,3568916
+"407","Leipzig, Stadt","Sachsen","County-Level City",1745,26.6,0.27,2.91,9.67,0.747,13.33,518862,294.5,10928290
+"408","Leipzig","Sachsen","County",164,18.9,3.2,3.78,7.31,-0.383,18.51,269694,100,3811838
+"409","Nordsachsen","Sachsen","County",103,20.5,4.19,1.55,7.32,-0.818,17.3,208661,93,3749139
+"410","Dessau-Ro_lau","Sachsen-Anhalt","County-Level City",359,23.9,1.33,2.46,6.78,-0.423,14.94,87764,45.2,1717661
+"411","Halle (Saale)","Sachsen-Anhalt","County-Level City",1721,24.6,0.31,1.08,9.48,-0.013,13.39,232323,127.3,5212112
+"412","Magdeburg","Sachsen-Anhalt","County-Level City",1148,28.9,0.28,2.33,8.24,0.51,11.42,230456,142.5,5500979
+"413","Altmarkkreis Salzwedel","Sachsen-Anhalt","County",39,18.1,5.82,1.91,7.32,-1.103,18.19,90471,37.8,1394402
+"414","Anhalt-Bitterfeld","Sachsen-Anhalt","County",123,20.1,2.57,1.74,6.76,-0.817,19.55,179263,73.9,3117835
+"415","Boerde","Sachsen-Anhalt","County",76,20.8,3.68,2.93,7.24,-0.704,14.09,180702,70.6,2976156
+"416","Burgenlandkreis","Sachsen-Anhalt","County",139,17.6,4.25,1.01,6.74,-0.678,23.53,196422,72.9,3175880
+"417","Harz","Sachsen-Anhalt","County",112,17.7,2.35,0.47,6.89,-0.582,17.95,234690,93.5,3995810
+"418","Jerichower Land","Sachsen-Anhalt","County",62,19.2,4.38,1.43,6.73,-0.168,16.09,97355,38.8,1660555
+"419","Mansfeld-Suedharz","Sachsen-Anhalt","County",105,15.2,4.6,0.53,6.2,-1.029,26.38,152523,54.4,2218675
+"420","Saalekreis","Sachsen-Anhalt","County",139,23.9,2.9,1.55,7.52,-0.743,16.64,199025,82.8,4169405
+"421","Salzlandkreis","Sachsen-Anhalt","County",149,18,2.5,2.3,6.56,-0.655,18.24,212605,83.9,3162299
+"422","Stendal","Sachsen-Anhalt","County",51,17.8,4.57,1.44,7.46,-0.952,21.72,123674,50.3,1948835
+"423","Wittenberg","Sachsen-Anhalt","County",72,17.7,3.73,1.44,6.54,-0.661,17.17,138946,53.6,2179518
+"448","Erfurt","Thueringen","County-Level City",757,30.6,0.65,1.24,8.96,0.412,9.82,203830,139,5602739
+"449","Gera","Thueringen","County-Level City",658,21.3,0.55,0.36,7.15,-0.138,14.41,99987,54.1,2062500
+"450","Jena","Thueringen","County-Level City",912,28.6,0.33,2.5,10.4,0.845,7.37,104449,61.5,2437130
+"451","Suhl","Thueringen","County-Level City",385,24.2,0.45,-0.12,4.96,-1.042,10.7,39526,22.3,966433
+"452","Weimar","Thueringen","County-Level City",775,24,0.29,2.07,9.84,0.517,11.49,65233,34.2,1320011
+"453","Eisenach","Thueringen","County-Level City",413,26,0.36,-1.21,8.5,-0.077,8.44,42847,27.5,1252141
+"454","Eichsfeld","Thueringen","County",113,17.2,2.29,3.41,8.35,-0.676,12.38,106052,43.7,1394549
+"455","Nordhausen","Thueringen","County",127,17.7,2.07,0.9,7.33,-0.314,16.66,90357,38.6,1483529
+"456","Wartburgkreis","Thueringen","County",101,17.9,3.02,1.26,6.97,-0.783,11.28,131820,52.9,2120418
+"457","Unstrut-Hainich-Kreis","Thueringen","County",112,17.4,4.65,1.49,7.57,-0.44,16.42,109606,45.2,1684651
+"458","Kyffhaeuserkreis","Thueringen","County",80,15.4,3.87,0.21,6.76,-0.71,24.37,82650,31,1249990
+"459","Schmalkalden-Meiningen","Thueringen","County",109,19.4,1.86,1.41,6.95,-0.554,10.83,131312,59,2260067
+"460","Gotha","Thueringen","County",148,20.5,2.86,1.83,7.53,-0.374,11.24,138857,62.9,2440743
+"461","Soemmerda","Thueringen","County",92,16.3,5.22,0.83,7.21,-0.464,22.79,73688,26.8,1116515
+"462","Hildburghausen","Thueringen","County",72,17,4.26,2.04,7.42,-0.742,11.41,67816,25.8,976238
+"463","Ilm-Kreis","Thueringen","County",134,20.4,1.66,4.63,7.61,-0.051,14.72,112804,48.3,1625145
+"464","Weimarer Land","Thueringen","County",106,17.3,4.24,3.37,7.76,-0.299,14.3,84935,33,1126804
+"465","Sonneberg","Thueringen","County",140,19.2,1.49,4.5,5.99,-0.532,9.91,60560,26.9,826999
+"466","Saalfeld-Rudolstadt","Thueringen","County",114,19.1,2.42,2.03,6.24,-0.631,13.79,118303,49.5,1912389
+"467","Saale-Holzland-Kreis","Thueringen","County",107,17.6,4.04,2.5,7.25,-0.611,11.99,87400,37.1,1258658
+"468","Saale-Orla-Kreis","Thueringen","County",77,19.6,4.38,1.75,7.07,-0.733,11.17,88632,41.1,1502810
+"469","Greiz","Thueringen","County",129,15.7,3.77,0.19,6.2,-0.802,16.23,109003,39.8,1681888
+"470","Altenburger Land","Thueringen","County",176,16.2,2.66,2.07,6.2,-0.87,22.54,100215,37.6,1371042

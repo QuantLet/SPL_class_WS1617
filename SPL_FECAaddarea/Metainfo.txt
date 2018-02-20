@@ -1,0 +1,14 @@
+Name of Quantlet: SPL_FECAaddarea
+
+Published in:  'Statistic Programming Language - Student Project on ''Exploring FEC Data'' '
+
+Description:      'Assigns to each zip code the candidate with the largest sum of contributions 
+                  and the highest number of contributors, respectively.'
+
+Keywords:         data-preparation, feature-engineering, dplyr, data-manipulation, fec, election
+
+Author:           Jonas Klein
+
+Submitted:        Mon, March 13 2017
+
+Datafile:         dat2.csv

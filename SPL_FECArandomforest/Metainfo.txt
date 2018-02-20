@@ -1,0 +1,14 @@
+Name of Quantlet: SPL_FECArandomforest
+Published in:  'Statistic Programming Language - Student Project on ''Exploring FEC Data'' '
+
+Description:      'Predictive model of donation behaviour. Tries to predict the party donated to 
+                  based on donor characteristics. Also attemps to visualize effect of predictor 
+                  variables.'
+
+Keywords:         fec, election, randomforest, machine-learning, prediction
+
+Author:           Janek Willeke
+
+Submitted:        Mon, March 13 2017
+
+Datafile:         dat4.csv

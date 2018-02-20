@@ -1,0 +1,24 @@
+Name of Quantlet: SPL_VAR_CVAR_Vizu
+ 
+Published in:     'Statistical programming languages - Student Project on ''Applied Value at Risk and Conditional Value at Risk'''
+   
+Description:      'This quantlet covers all plots for the three quantlets VaR_and_CVaR_Quantlet, Testing_Quantlet and
+                   PortfolioOptimization. For VaR_and_CVaR_Quantlet it plots different distributions (normal, Student''s t and
+                   empirical distributions) with corresponding VaR and CVaR calculated within VaR_and_CVaR_Quantlet. For the
+                   Testing_Quantlet it plots two different distributions in order to compare these distributions as well as plotting
+                   the results of the Kupiec Test for the VaR and McNeal & Frey test for the CVaR. For the PortfolioOptimization 
+                   Quantlet, it plots the portfolios weights and let liquidation value over time as well as the efficient frontiers.'
+    
+Keywords:         'finance, plots, Value at Risk, Conditional Value at Risk, portfolio optimization, portfolio allocation,
+                   Kupiec''s test, VaRTest, ESTest, distribution plots'
+    
+Author:            Marvin Gauer, Sandra Faltl, Michael Schimpke, Laureen Lake, Anna Friesen
+    
+See also:         'Data_Preparation_Quantlet, VaR_and_CVaR_Quantlet, Testing_Quantlet, PortfolioOptimization'
+    
+Submitted:         Tue, March 14 2017 by Laureen Lake
+    
+Input:            'Prepared Return Data of Data_Preparation_Quantlet and output data of the Quantlets 
+                   VaR_and_CVaR_Quantlet, Testing_Quantlet, PortfolioOptimization'
+    
+Output:           'Plots for Quantlets VaR_and_CVaR_Quantlet, Testing_Quantlet, PortfolioOptimization'

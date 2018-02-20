@@ -1,0 +1,14 @@
+Name of Quantlet: SPL_FECAsummarystatistic
+
+Published in:  'Statistic Programming Language - Student Project on ''Exploring FEC Data'' '
+
+Description:      'Calculates the most common summary statistics (sum, mean, median, min, max,
+                  standard deviation) for the amount of money contributed to each candidate.'
+
+Keywords:         data-analysis, summary-statistics, dplyr, fec, election
+
+Author:           Lukas Moedl
+
+Submitted:        Mon, March 13 2017
+
+Datafile:         dat4.csv

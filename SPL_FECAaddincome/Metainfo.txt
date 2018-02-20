@@ -1,0 +1,14 @@
+Name of Quantlet: SPL_FECAaddincome
+
+Published in:     'Statistic Programming Language - Student Project on ''Exploring FEC Data'' '
+
+Description:      'Uses the IRS tax records for California to construct a proxy the wealth of a
+                  a zip code.' 
+
+Keywords:         data-preparation, feature-engineering, irs, proxy, election, fec
+
+Author:           Janek Willeke
+
+Submitted:        Mon, March 13 2017
+
+Datafile:         dat1.csv, 14zp05ca.csv

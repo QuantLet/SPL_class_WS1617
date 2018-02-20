@@ -1,0 +1,8 @@
+Name of Quantlet: SPL_HousePriceML_xgbFeatureSelection
+Published in:  'Statistic Programming Language - Student Project on ''Predicting House Prices using Machine Learning Techniques'' '
+Description: 'Select variables to forcast the house price using xgboosting algorithm, with the parameter taken from the tuning result.'
+Keywords: xgboosting, variable selection, plot, forecast, error, bar chart
+Author: Dennis Koehn
+Submitted: Sun, January 8, 2016 by Mingyang Li
+Datafile: basic_processing.RData
+

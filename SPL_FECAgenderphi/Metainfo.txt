@@ -1,0 +1,14 @@
+Name of Quantlet: SPL_FECAgenderphi
+
+Published in:  'Statistic Programming Language - Student Project on ''Exploring FEC Data'' '
+
+Description:      'Calculates correlation between candidate gender and contributor gender
+                  and performs a Chisquare test of independence.'
+
+Keywords:         data-analysis, phi-coefficient, correlation, categorial-correlation, fec, election, gender
+
+Author:           Lukas Moedl
+
+Submitted:        Mon, March 13 2017
+
+Datafile:         dat4.csv

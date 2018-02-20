@@ -1,0 +1,14 @@
+Name of Quantlet: SPL_FECAaddgender
+
+Published in:  'Statistic Programming Language - Student Project on ''Exploring FEC Data'' '
+
+Description:      'Infers gender of contributors based on first names by using, census data of 
+                  first names and adds the gender to the data.'
+
+Keywords:         data-preparation, inference, feature-engineering, gender, election, fec
+
+Author:           Andrii Zakharov
+
+Submitted:        Mon, March 13 2017
+
+Datafile:         dat0.csv, census-dist-female-first.csv, census-dist-male-first.csv

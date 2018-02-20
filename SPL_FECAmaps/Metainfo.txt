@@ -1,0 +1,17 @@
+Name of Quantlet: SPL_FECAmaps
+
+Published in:  'Statistic Programming Language - Student Project on ''Exploring FEC Data'' '
+
+Description:      'Uses a shapefile of California to draw polygons of California zip codes are 
+                  and fill them with a color representing the candidate who has collected the 
+                  largest amount of donations in total in the corresponding zip code. The filled 
+                  polygons are then plotted by longitute and latitute on a Google map image of 
+                  California.'
+
+Keywords:         ggplot2, ggmap, map, visualization, gis, shapefile, rgdal, rgeos, fec, election
+
+Author:           Lukas Moedl
+
+Submitted:        Mon, March 13 2017
+
+Datafile:         dat4.csv, tl_2010_06_zcta510 (folder)
