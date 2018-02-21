@@ -20,9 +20,9 @@ Datafile:         dat4.csv
 ```
 
 
-![Picture1](FECAvariableimportance_1.png)
-![Picture2](FECAvariableimportance_2.png)
-![Picture3](FECAvariableimportance_3.png)
+![Picture1](SPL_FECAvariableimportance_1.png)
+![Picture2](SPL_FECAvariableimportance_2.png)
+![Picture3](SPL_FECAvariableimportance_3.png)
 
 ## R Code
 ```r
