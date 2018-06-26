@@ -1,4 +1,4 @@
-Name of Quantlet: PCA_One_Factor_Model
+Name of Quantlet: SPL_CountiesDE_PCA_One_Factor_Model
 
 Published in: 'Statistical Programming Languages - Student Project on ''How attractive are German counties and county-level cities? A statistical analysis of various economic factors in terms of attractiveness and welfare'' '
 

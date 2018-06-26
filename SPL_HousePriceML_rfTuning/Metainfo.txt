@@ -1,4 +1,4 @@
-Name of Quantlet: SPL_HousePriceML_rfTuning
+Name of Quantlet: SPL_HousePriceML_rfFeatureSelection
 Published in:  'Statistic Programming Language - Student Project on ''Predicting House Prices using Machine Learning Techniques'' '
 Description: 'Tune parameters for the random forest model using corss validation. The optimal parameter will be used to foreast house price.'
 Keywords: random-forest, cross-validation, cv, plot, error, model, parameter
