@@ -114,7 +114,7 @@ qqline(GDPgrCLC)
 # ======================================================
 
 # package for variance inflation factor
-install.packages(car)
+install.packages("car")
 library(car)
 
 # package to create Latex code
@@ -160,6 +160,8 @@ normalityCVM = apply(dat[,4:13], MARGIN = 2, FUN = cvm.test)
 normalityL   = apply(dat[,4:13], MARGIN = 2, FUN = lillie.test)
 
 #skewness and kurtosis
+install.packages("PerformanceAnalytics")
+library(PerformanceAnalytics) # otherwise the following two lines can not be run
 apply(dat[,4:13], MARGIN = 2, FUN = skewness)
 apply(dat[,4:13], MARGIN = 2, FUN = kurtosis)
 
