@@ -7,9 +7,9 @@
 ```
 Name of Quantlet: SPL_VAR_CVAR_PortfolioOptimization
 
-Published in: Statistical programming languages - Student Project on "Applied Value at Risk and Conditional Value at Risk
+Published in: Statistical programming languages - Student Project on "Applied Value at Risk and Conditional Value at Risk"
 
-Description: Optimizes a given portfolio, calculates the efficient frontier and calculates the portfolios net
+Description: Optimizes a given portfolio, calculates the efficient frontier and calculates the portfolios net liquidation value over time
 
 Keywords: finance, portfolio optimization, portfolio, assets
 
