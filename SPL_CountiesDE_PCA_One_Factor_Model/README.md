@@ -7,9 +7,9 @@
 ```
 Name of Quantlet: SPL_CountiesDE_PCA_One_Factor_Model
 
-Published in: Statistical Programming Languages - Student Project on ''How attractive are German counties and county-level cities? A statistical analysis of various economic factors in terms of attractiveness and welfare'' 
+Published in: Statistical Programming Languages - Student Project on ''How attractive are German counties and county-level cities? A statistical analysis of various economic factors in terms of attractiveness and welfare''
 
-Description: Performs a principal component analysis in order to identify an underlying concept ''attractiveness of counties and county-level cities
+Description: Performs a principal component analysis in order to identify an underlying concept ''attractiveness of counties and county-level cities''
 
 Keywords: principal component analysis, scree plot, simple linear regression, scatterplot
 
